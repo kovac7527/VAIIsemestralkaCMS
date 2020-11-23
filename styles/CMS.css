@@ -1,0 +1,20 @@
+body {
+
+
+}
+.navbar-fixed-top {
+    position: relative;
+}
+
+.navbar-dark .navbar-brand h3 {
+    border-bottom: 5px solid;
+    border-radius: 5px;
+    border-color: firebrick;
+    text-align: center;
+
+
+}
+
+.text-success {
+    color: #007bff;
+}
